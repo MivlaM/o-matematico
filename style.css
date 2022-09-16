@@ -1,0 +1,19 @@
+body {
+  background: #233047;
+}
+
+.container {
+  max-width: 400px;
+}
+
+.textNumber {
+  font-size: 2rem;
+  color: rgb(223, 222, 241);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-bottom: 60px;
+}
+
+h1 {
+  font-size: 3.2rem;
+  color: slategray;
+}
